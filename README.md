@@ -1,2 +1,2 @@
 # Library-Management-System
-This is a Library Management System which provides circulation management to manage the borrowing and returning of books.
+This Is a System Design Project , Here I have designed Library Management System with OOPS and File Handling in C++
